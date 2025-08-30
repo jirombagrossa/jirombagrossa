@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm A Modafocka</h1>
-<h3 align="center">A passionate frontend developer from hell</h3>
+# Hi 👋, I'm A Modafocka
+### A passionate frontend developer from hell
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirombagrossa&label=Profile%20views&color=0e75b6&style=flat" alt="jirombagrossa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirombagrossa" alt="jirombagrossa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jirombagrossa" target="blank"><img src="https://img.shields.io/twitter/follow/jirombagrossa?logo=twitter&style=for-the-badge" alt="jirombagrossa" /></a> </p>
 
